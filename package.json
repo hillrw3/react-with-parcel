@@ -1,0 +1,23 @@
+{
+  "name": "parcel-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.8.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
