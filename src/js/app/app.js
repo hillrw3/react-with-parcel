@@ -1,9 +1,12 @@
 import React from 'react'
+import './app.scss'
 
 export class App extends React.Component {
     render() {
-        return(
-            <h1>React with Parcel!</h1>
+        return (
+            <div className='container'>
+                <h1>React with Parcel!</h1>
+            </div>
         )
     }
 }

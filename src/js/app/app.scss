@@ -1,0 +1,16 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 50rem;
+  height: 20rem;
+  background: dodgerblue;
+  display: flex;
+  justify-content: center;
+
+  h1 {
+    color: white;
+  }
+}
